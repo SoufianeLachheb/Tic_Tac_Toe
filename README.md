@@ -8,6 +8,9 @@ Le jeu Tic Tac Toe (ou "Morpion" en français) est un jeu de plateau simple pour
 Un projet Tic Tac Toe en Python pourrait inclure les éléments suivants:
 
 Un affichage graphique du plateau de jeu, qui peut être créé à l'aide de bibliothèques graphiques telles que Pygame ou Tkinter.
+
 Une boucle de jeu principale qui gère les tours des joueurs, les entrées utilisateur et les vérifications de victoire.
+
 Des fonctions pour vérifier les lignes gagnantes, gérer les entrées utilisateur et mettre à jour l'affichage graphique.
+
 Des options pour jouer contre un autre joueur ou contre l'ordinateur. Si c'est contre l'ordinateur, l'algorithme de l'IA pourrait être implémenté pour jouer contre l'utilisateur.
