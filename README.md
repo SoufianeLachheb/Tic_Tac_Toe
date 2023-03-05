@@ -1,5 +1,5 @@
 # Tic_Tac_Toe
-Projet Tic Tac Toe Réalisé en Python sous le cadre de mes études à l'HETIC
+Projet Tic Tac Toe Réalisé en Python
 
 Le jeu Tic Tac Toe (ou "Morpion" en français) est un jeu de plateau simple pour deux joueurs, dans lequel les joueurs marquent des cases sur un plateau 3x3 avec leurs symboles respectifs (généralement un "X" et un "O"). Le but du jeu est de placer trois de ses symboles consécutifs horizontalement, verticalement ou en diagonale.
 
